@@ -1,4 +1,4 @@
-Chiplusgo
+❤️ online payment system Chiplusgo ❤️
 
 ChiPlusGo is an online payment platform that provides contactless payment method to all of the local residents in Chicagoland area. Our services range from allowing users to pay with scanning QR codes at local merchants, effective discount rebates, exclusive memberships, and line of credit for easier financial managements, etc.
 
